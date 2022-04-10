@@ -45,7 +45,7 @@
     "timestamp": 1647790699,
     "comment": "Добавлены прогресс бары и анти-мат, а также исправления",
     "links": [
-      "https:\/discord.com\/channels\/457858774099689479\/749010669772210236\/954720182335578132",
+      "https:\/\/discord.com\/channels\/457858774099689479\/749010669772210236\/954720182335578132",
       "https:\/t.me\/flameoutupdates\/206",
       "https:\/t.me\/flameoutupdates\/205",
       "https:\/t.me\/flameoutupdates\/204",
@@ -69,8 +69,8 @@
     "timestamp": 1646089039,
     "comment": "Вкратце добавлен анти-обход лимита в банке, увеличен лимит в банке и кубике, и исправления многих команд",
     "links": [
-      "https:\/discord.com\/channels\/457858774099689479\/749010669772210236\/947990957612224513",
-      "https:\/t.me\/flameoutupdates\/187"
+      "https:\/\/discord.com\/channels\/457858774099689479\/749010669772210236\/947990957612224513",
+      "https:\/\/t.me\/flameoutupdates\/187"
     ]
   },
 
@@ -79,7 +79,7 @@
     "timestamp": 1643798367,
     "comment": "Добавлен украинский язык, больше информации в команды, исправления и т.д.",
     "links": [
-      "https:\/discord.com\/channels\/457858774099689479\/749010669772210236\/938383059034734612",
+      "https:\/\/discord.com\/channels\/457858774099689479\/749010669772210236\/938383059034734612",
       "https:\/\/t.me\/flameoutupdates\/133",
       "https:\/\/t.me\/flameoutupdates\/131",
       "https:\/\/t.me\/flameoutupdates\/130",
@@ -187,7 +187,7 @@
   "website": {
     "version": "website",
     "timestamp": 1637698133,
-    "comment": "Обновления сайта",
+    "comment": "Все обновления сайта",
     "links": [
       "https:\/\/t.me\/flameoutupdates\/35",
       "https:\/\/t.me\/flameoutupdates\/24"
@@ -197,7 +197,7 @@
   "telegram": {
     "version": "telegram",
     "timestamp": 1636213720,
-    "comment": "Обноновления telegram бота",
+    "comment": "Все обновления telegram бота",
     "links": [
       "https:\/\/t.me\/flameoutupdates\/19",
       "https:\/\/t.me\/flameoutupdates\/18"
