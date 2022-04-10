@@ -1,6 +1,6 @@
 {
   "latest": {
-    "version": "2.0.25-pre1",
+    "version": "2.0.25-pre1-githubTest1",
     "timestamp": 1649602548,
     "comment": "Добавлены сейфы, локализация slash-команд, новые топы, исправления и т.д.",
     "links": [
