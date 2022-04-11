@@ -1,9 +1,10 @@
 {
   "latest": {
     "version": "2.0.25-pre1",
-    "timestamp": 1649635724,
-    "comment": "Добавлены сейфы, локализация slash-команд, новые топы, исправления и т.д.",
+    "timestamp": 1649639943,
+    "comment": "Добавлены сейфы, Бен, локализация slash-команд, новые топы, исправления и т.д.",
     "links": [
+      "https:\/\/t.me\/flameoutupdates\/256",
       "https:\/\/t.me\/flameoutupdates\/255",
       "https:\/\/t.me\/flameoutupdates\/253",
       "https:\/\/t.me\/flameoutupdates\/251",
