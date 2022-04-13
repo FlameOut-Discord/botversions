@@ -1,9 +1,10 @@
 {
   "latest": {
     "version": "2.0.25-pre2",
-    "timestamp": 1649788465,
+    "timestamp": 1649882909,
     "comment": "Добавлена возможность покупать товары в магазине в большом количестве, и т.д.",
     "links": [
+      "https:\/\/t.me\/flameoutupdates\/263",
       "https:\/\/t.me\/flameoutupdates\/258",
       "https:\/\/t.me\/flameoutupdates\/257"
     ]
