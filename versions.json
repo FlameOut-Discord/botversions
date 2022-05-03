@@ -1,5 +1,34 @@
 {
   "latest": {
+    "version": "2.1.0",
+    "timestamp": 1651268854,
+    "comment": "Покупка товаров в большом количестве, множество новых (slash-)команд, полное удаление снюса из бота, изменение некоторых механик бота, обновление поп-ита, снижение комиссии при переводе монет пользователям с FlameOut Premium, фиксы, обновления, прогресс бары, диаграммы и многое другое. Это самая большая версия за всё время бота! Связанная версия: 2.0.25-pre1",
+    "links": [
+      "https:\/\/discord.com\/channels\/457858774099689479\/749010669772210236\/967501818827526244",
+      "https:\/\/t.me\/flameoutupdates\/302",
+      "https:\/\/t.me\/flameoutupdates\/301",
+      "https:\/\/t.me\/flameoutupdates\/299",
+      "https:\/\/t.me\/flameoutupdates\/298",
+      "https:\/\/t.me\/flameoutupdates\/297",
+      "https:\/\/t.me\/flameoutupdates\/296",
+      "https:\/\/t.me\/flameoutupdates\/294",
+      "https:\/\/t.me\/flameoutupdates\/292",
+      "https:\/\/t.me\/flameoutupdates\/290",
+      "https:\/\/t.me\/flameoutupdates\/288",
+      "https:\/\/t.me\/flameoutupdates\/285",
+      "https:\/\/t.me\/flameoutupdates\/284",
+      "https:\/\/t.me\/flameoutupdates\/279",
+      "https:\/\/t.me\/flameoutupdates\/273",
+      "https:\/\/t.me\/flameoutupdates\/272",
+      "https:\/\/t.me\/flameoutupdates\/270",
+      "https:\/\/t.me\/flameoutupdates\/268",
+      "https:\/\/t.me\/flameoutupdates\/267",
+      "https:\/\/t.me\/flameoutupdates\/263",
+      "https:\/\/t.me\/flameoutupdates\/258",
+      "https:\/\/t.me\/flameoutupdates\/257"
+    ]
+  },
+  "2.0.25-pre2": {
     "version": "2.0.25-pre2",
     "timestamp": 1651268854,
     "comment": "Покупка товаров в большом количестве, множество новых (slash-)команд, полное удаление снюса из бота, изменение некоторых механик бота, обновление поп-ита, снижение комиссии при переводе монет пользователям с FlameOut Premium, фиксы, обновления, прогресс бары, диаграммы и многое другое. Это самая большая версия за всё время бота! Связанная версия: 2.0.25-pre1",
