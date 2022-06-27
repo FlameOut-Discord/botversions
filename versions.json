@@ -1,5 +1,35 @@
 {
   "latest": {
+    "version": "2.1.1",
+    "timestamp": 1656170661,
+    "comment": "Помощники-питомцы, новый значок, справка по командам (все алиасы, описание, примеры использования), обновление некоторых (slash-)команд, новая тема профиля, больше информации, фиксы, дуэли, изменения и многое другое",
+    "links": [
+      "https://t.me/flameoutupdates/365",
+      "https://t.me/flameoutupdates/361",
+      "https://t.me/flameoutupdates/360",
+      "https://t.me/flameoutupdates/359",
+      "https://t.me/flameoutupdates/358",
+      "https://t.me/flameoutupdates/357",
+      "https://t.me/flameoutupdates/356",
+      "https://t.me/flameoutupdates/355",
+      "https://t.me/flameoutupdates/354",
+      "https://t.me/flameoutupdates/353",
+      "https://t.me/flameoutupdates/352",
+      "https://t.me/flameoutupdates/351",
+      "https://t.me/flameoutupdates/350",
+      "https://t.me/flameoutupdates/349",
+      "https://t.me/flameoutupdates/348",
+      "https://t.me/flameoutupdates/347",
+      "https://t.me/flameoutupdates/346",
+      "https://t.me/flameoutupdates/345",
+      "https://t.me/flameoutupdates/344",
+      "https://t.me/flameoutupdates/343",
+      "https://t.me/flameoutupdates/342",
+      "https://t.me/flameoutupdates/341",
+      "https://t.me/flameoutupdates/340"
+    ]
+  },
+  "2.1.0": {
     "version": "2.1.0",
     "timestamp": 1651268854,
     "comment": "Покупка товаров в большом количестве, множество новых (slash-)команд, полное удаление снюса из бота, изменение некоторых механик бота, обновление поп-ита, снижение комиссии при переводе монет пользователям с FlameOut Premium, фиксы, обновления, прогресс бары, диаграммы и многое другое. Это самая большая версия за всё время бота! Связанная версия: 2.0.25-pre1",
