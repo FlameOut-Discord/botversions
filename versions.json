@@ -1,5 +1,24 @@
 {
   "latest": {
+    "version": "3.0.0-pre2",
+    "timestamp": 1666550820,
+    "comment": "Уменьшение кулдауна Premium-пользователям, автоматические ивенты, повышение цены на Premium, исправления и так далее",
+    "links": [
+      "https://t.me/flameoutupdates/516",
+      "https://t.me/flameoutupdates/515",
+      "https://t.me/flameoutupdates/511",
+      "https://t.me/flameoutupdates/508",
+      "https://t.me/flameoutupdates/507",
+      "https://t.me/flameoutupdates/502",
+      "https://t.me/flameoutupdates/501",
+      "https://t.me/flameoutupdates/500",
+      "https://t.me/flameoutupdates/487",
+      "https://t.me/flameoutupdates/486",
+      "https://t.me/flameoutupdates/484"
+    ]
+  },
+  
+  "3.0.0-pre1": {
     "version": "3.0.0-pre1",
     "timestamp": 1664742764,
     "comment": "Жёсткие фиксы и обновления о которых просили ВСЕ",
