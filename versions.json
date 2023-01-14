@@ -1,5 +1,24 @@
 {
   "latest": {
+    "version": "3.0.1-pre1",
+    "timestamp": 1673709398,
+    "comment": "Уведомления от команды FlameOut в ЛС, исправления и улучшения, новый профиль с значком и другое",
+    "links": [
+      "https://t.me/flameoutupdates/681",
+      "https://t.me/flameoutupdates/680",
+      "https://t.me/flameoutupdates/679",
+      "https://t.me/flameoutupdates/678",
+      "https://t.me/flameoutupdates/676",
+      "https://t.me/flameoutupdates/675",
+      "https://t.me/flameoutupdates/673",
+      "https://t.me/flameoutupdates/653",
+      "https://t.me/flameoutupdates/646",
+      "https://t.me/flameoutupdates/645",
+      "https://t.me/flameoutupdates/623",
+    ]
+  },
+  
+  "3.0.1": {
     "version": "3.0.1",
     "timestamp": 1668204158,
     "comment": "Больше алиасов, уменьшение кулдауна Premium-пользователям, обновление справки по командам, фиксы дюпов и багов, автоматические ивенты, увеличение цены на FlameOut Premium и другое",
