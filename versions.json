@@ -1,20 +1,10 @@
 {
   "latest": {
-    "version": "3.0.1-pre1",
-    "timestamp": 1673709398,
-    "comment": "Уведомления от команды FlameOut в ЛС, исправления и улучшения, новый профиль с значком и другое",
+    "version": "3.0.2",
+    "timestamp": 1674922208,
+    "comment": "Уведомления от FlameOut в ЛС, новый значок \"Друг проекта\", уменьшение максимального количества символов для пользователей без FlameOut Premium, исправления и другое",
     "links": [
-      "https://t.me/flameoutupdates/681",
-      "https://t.me/flameoutupdates/680",
-      "https://t.me/flameoutupdates/679",
-      "https://t.me/flameoutupdates/678",
-      "https://t.me/flameoutupdates/676",
-      "https://t.me/flameoutupdates/675",
-      "https://t.me/flameoutupdates/673",
-      "https://t.me/flameoutupdates/653",
-      "https://t.me/flameoutupdates/646",
-      "https://t.me/flameoutupdates/645",
-      "https://t.me/flameoutupdates/623"
+      "https://flame.nbvk.ml/upd/#3.0.2"
     ]
   },
   
@@ -26,44 +16,7 @@
       "https://flame.nbvk.ml/upd/#3.0.1"
     ]
   },
-  
-  "3.0.0-pre2": {
-    "version": "3.0.0-pre2",
-    "timestamp": 1666550820,
-    "comment": "Уменьшение кулдауна Premium-пользователям, автоматические ивенты, повышение цены на Premium, исправления и так далее",
-    "links": [
-      "https://t.me/flameoutupdates/516",
-      "https://t.me/flameoutupdates/515",
-      "https://t.me/flameoutupdates/511",
-      "https://t.me/flameoutupdates/508",
-      "https://t.me/flameoutupdates/507",
-      "https://t.me/flameoutupdates/502",
-      "https://t.me/flameoutupdates/501",
-      "https://t.me/flameoutupdates/500",
-      "https://t.me/flameoutupdates/487",
-      "https://t.me/flameoutupdates/486",
-      "https://t.me/flameoutupdates/484"
-    ]
-  },
-  
-  "3.0.0-pre1": {
-    "version": "3.0.0-pre1",
-    "timestamp": 1664742764,
-    "comment": "Жёсткие фиксы и обновления о которых просили ВСЕ",
-    "links": [
-      "https://t.me/flameoutupdates/481",
-      "https://t.me/flameoutupdates/480",
-      "https://t.me/flameoutupdates/479",
-      "https://t.me/flameoutupdates/478",
-      "https://t.me/flameoutupdates/477",
-      "https://t.me/flameoutupdates/476",
-      "https://t.me/flameoutupdates/475",
-      "https://t.me/flameoutupdates/474",
-      "https://t.me/flameoutupdates/473",
-      "https://t.me/flameoutupdates/472"
-    ]
-  },
-  
+
   "3.0.0": {
     "version": "3.0.0",
     "timestamp": 1661980776,
@@ -129,31 +82,6 @@
     "comment": "Тестовая версия для проверки readme на странице организации на GitHub",
     "links": [
       "https:\/\/github.com\/FlameOut-Discord"
-    ]
-  },
-
-  "2.0.25-pre1": {
-    "version": "2.0.25-pre1",
-    "timestamp": 1649639943,
-    "comment": "Добавлены сейфы, Бен, локализация slash-команд, новые топы, исправления и т.д.",
-    "links": [
-      "https:\/\/t.me\/flameoutupdates\/256",
-      "https:\/\/t.me\/flameoutupdates\/255",
-      "https:\/\/t.me\/flameoutupdates\/253",
-      "https:\/\/t.me\/flameoutupdates\/251",
-      "https:\/\/t.me\/flameoutupdates\/250",
-      "https:\/\/t.me\/flameoutupdates\/249",
-      "https:\/\/t.me\/flameoutupdates\/240",
-      "https:\/\/t.me\/flameoutupdates\/239",
-      "https:\/\/t.me\/flameoutupdates\/217",
-      "https:\/\/t.me\/flameoutupdates\/216",
-      "https:\/\/t.me\/flameoutupdates\/215",
-      "https:\/\/t.me\/flameoutupdates\/213",
-      "https:\/\/t.me\/flameoutupdates\/212",
-      "https:\/\/t.me\/flameoutupdates\/211",
-      "https:\/\/t.me\/flameoutupdates\/210",
-      "https:\/\/t.me\/flameoutupdates\/209",
-      "https:\/\/t.me\/flameoutupdates\/207"
     ]
   },
 
@@ -235,18 +163,6 @@
       "https:\/\/t.me\/flameoutupdates\/57",
       "https:\/\/t.me\/flameoutupdates\/53",
       "https:\/\/t.me\/flameoutupdates\/27"
-    ]
-  },
-  
-  "2.0.22-newyear": {
-    "version": "2.0.22-newyear",
-    "timestamp": 1640956468,
-    "comment": "С Новым Годом!",
-    "links": [
-      "https:\/\/discord.com\/channels\/457858774099689479\/749010669772210236\/926463347258441740",
-      "https:\/\/t.me\/flameoutupdates\/110",
-      "https:\/\/t.me\/flameoutupdates\/107",
-      "https:\/\/t.me\/flameoutupdates\/90"
     ]
   },
 
