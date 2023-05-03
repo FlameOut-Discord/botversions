@@ -12,7 +12,7 @@
     "timestamp": 1674922208,
     "comment": "Уведомления от FlameOut в ЛС, новый значок \"Друг проекта\", уменьшение максимального количества символов для пользователей без FlameOut Premium, исправления и другое",
     "links": [
-      "https://flame.nbvk.ml/upd/#3.0.2"
+      "https://nubovik.gitbook.io/flameout/upd/#3.0.2"
     ]
   },
   
@@ -21,7 +21,7 @@
     "timestamp": 1668204158,
     "comment": "Больше алиасов, уменьшение кулдауна Premium-пользователям, обновление справки по командам, фиксы дюпов и багов, автоматические ивенты, увеличение цены на FlameOut Premium и другое",
     "links": [
-      "https://flame.nbvk.ml/upd/#3.0.1"
+      "https://nubovik.gitbook.io/flameout/upd/#3.0.1"
     ]
   },
 
@@ -30,7 +30,7 @@
     "timestamp": 1661980776,
     "comment": "Маленькое обновление, но значительное для нас - мы обновили discord.js до последней версии. Обо всех багах (а их будет очень-очень много) просьба сообщать командой f!bug (слэш-команды если что тоже сломались)",
     "links": [
-      "https://flame.nbvk.ml/upd/#3.0.0"
+      "https://nubovik.gitbook.io/flameout/upd/#3.0.0"
     ]
   },
 
@@ -39,7 +39,7 @@
     "timestamp": 1657119680,
     "comment": "Маленькое обновление с полезными изменениями и справлениями",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.1.2"
+      "https://nubovik.gitbook.io/flameout/upd/#2.1.2"
     ]
   },
 
@@ -48,7 +48,7 @@
     "timestamp": 1656170661,
     "comment": "Помощники-питомцы, новый значок, справка по командам (все алиасы, описание, примеры использования), обновление некоторых (slash-)команд, новая тема профиля, больше информации, фиксы, дуэли, изменения и многое другое",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.1.1"
+      "https://nubovik.gitbook.io/flameout/upd/#2.1.1"
     ]
   },
 
@@ -57,7 +57,7 @@
     "timestamp": 1651268854,
     "comment": "Покупка товаров в большом количестве, множество новых (slash-)команд, полное удаление снюса из бота, изменение некоторых механик бота, обновление поп-ита, снижение комиссии при переводе монет пользователям с FlameOut Premium, фиксы, обновления, прогресс бары, диаграммы и многое другое. Это самое большое обновление за всё время бота! Связанная версия: 2.0.25-pre1",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.1.0"
+      "https://nubovik.gitbook.io/flameout/upd/#2.1.0"
     ]
   },
   
@@ -75,7 +75,7 @@
     "timestamp": 1649616380,
     "comment": "Тестовая версия для проверки автообновления версий прямо с GitHub без перезапуска бота и других всяких ненужных/сложных штук",
     "links": [
-      "https:\/\/flame.nbvk.ml\/"
+      "https:\/\/nubovik.gitbook.io/flameout\/"
     ]
   },
   
@@ -93,7 +93,7 @@
     "timestamp": 1647790699,
     "comment": "Добавлены прогресс бары и анти-мат + фиксы",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.25"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.25"
     ]
   },
 
@@ -102,7 +102,7 @@
     "timestamp": 1646089039,
     "comment": "Добавлен анти-обход лимита в банке, увеличен лимит в банке и кубике + фиксы многих команд",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.24"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.24"
     ]
   },
 
@@ -111,7 +111,7 @@
     "timestamp": 1643798367,
     "comment": "Добавлен украинский язык, больше информации в команды, исправления и т.д.",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.23"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.23"
     ]
   },
 
@@ -120,7 +120,7 @@
     "timestamp": 1640013298,
     "comment": "Покупка пользовательских значок и другое",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.22"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.22"
     ]
   },
   
@@ -129,7 +129,7 @@
     "timestamp": 1639326869,
     "comment": "Маленькое обновление. Вкратце, добавлены банковские карты, генератор писем Деду Морозу и т.д.",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.21"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.21"
     ]
   },
   
@@ -138,7 +138,7 @@
     "timestamp": 1638702678,
     "comment": "Добавлен социальный рейтинг",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.20"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.20"
     ]
   },
   
@@ -147,7 +147,7 @@
     "timestamp": 1637868706,
     "comment": "Новый значок, обновление сайта и другое",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.19"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.19"
     ]
   },
 
@@ -156,7 +156,7 @@
     "timestamp": 1635725908,
     "comment": "Добавлены топоры, скрытие из топа и много чего ещё",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.18"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.18"
     ]
   },
   
@@ -165,7 +165,7 @@
     "timestamp": 0,
     "comment": "Добавлены кирки и другое",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.17"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.17"
     ]
   },
     
@@ -174,7 +174,7 @@
     "timestamp": 0,
     "comment": "Добавлены листики и другое",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.16"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.16"
     ]
   },
   
@@ -183,7 +183,7 @@
     "timestamp": 0,
     "comment": "Отсутствует",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.15"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.15"
     ]
   },
   
@@ -192,7 +192,7 @@
     "timestamp": 0,
     "comment": "Отсутствует",
     "links": [
-      "https://flame.nbvk.ml/upd/#2.0.14"
+      "https://nubovik.gitbook.io/flameout/upd/#2.0.14"
     ]
   }
 }
